@@ -24,7 +24,7 @@ function Navbar() {
           <>
             <span className="mr-4">
               {" "}
-              USERNAME : {user.username} | EMAIL : {user.email}
+              USERNAME : {user.username}
             </span>
             {/* <Button
               onClick={() => signOut()}
